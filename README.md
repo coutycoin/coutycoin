@@ -1,16 +1,29 @@
-## Hi there 👋
+# CoutyCoin (CTY)
 
-<!--
-**coutycoin/coutycoin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CoutyCoin (CTY)** é um token brasileiro BEP-20 lançado na Binance Smart Chain (BSC), criado com o objetivo de facilitar transações acessíveis, rápidas e seguras. Seu foco é na inclusão digital e no empoderamento econômico da comunidade.
 
-Here are some ideas to get you started:
+## 📊 Tokenomics
+- Nome: CoutyCoin
+- Símbolo: CTY
+- Total Supply: 221.000.000 CTY
+- Decimais: 18
+- Compilador usado: Solidity ^0.8.24
+- Contrato: 0xdD516b23e81F86f032Ce8e577D41890f18Fb7deE
+- Rede: BNB Smart Chain (BEP20)
+- Owner recebe o supply total no momento do deploy
+- Função de queima (burn) ativada
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 Arquivos incluídos
+- CoutyCoin.sol (código do contrato)
+- whitepaper.pdf (documento de visão do projeto)
+- LICENSE (MIT)
+- README.md (este arquivo)
+
+## 🔗 Links oficiais
+- Site: https://coutycoin.com.br
+- Instagram: https://instagram.com/coutycoin.oficial
+- TikTok: https://tiktok.com/@coutycoin.oficial
+- Twitter (X): https://x.com/CoutyCoin
+- Telegram: https://t.me/coutycoinoficial
+
+© 2025 CoutyCoin. Todos os direitos reservados.
