@@ -1,0 +1,5 @@
+
+Nome do Token: CoutyCoin
+Símbolo: CTY
+Oferta Total: 221.000.000 CTY
+... (conteúdo completo do tokenomics fornecido)
