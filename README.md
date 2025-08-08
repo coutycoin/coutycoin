@@ -1,5 +1,3 @@
-
-# CoutyCoin - CTY Token
 # CoutyCoin (CTY) - Repositório Oficial
 
 ## Visão Geral
