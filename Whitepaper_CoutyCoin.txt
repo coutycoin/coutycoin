@@ -1,3 +1,14 @@
 
-# Whitepaper - CoutyCoin (CTY)
-Um projeto brasileiro focado em acessibilidade cripto, com distribuição gratuita, parcerias estratégicas, queima programada e liquidez no PancakeSwap.
+Verificação CoutyCoin (CTY)
+- Contrato:
+https://bscscan.com/address/0xdD516b23e81F86f032Ce8e577D41890f18Fb7deE
+- Projeto: CoutyCoin é uma criptomoeda brasileira na BNB Chain, nascida em Belém, ligada
+à COP30 em 2025, focada em inclusão financeira e sustentabilidade.
+- Pré-venda: ~R$0,0007735/CTY até 30/09/2025.
+- Lançamento: PancakeSwap em 02/11/2025.
+- Auditoria:
+https://gopluslabs.io/token-security/56/0xdD516b23e81F86f032Ce8e577D41890f18Fb7deE
+- Comunidade: https://t.me/coutycoinctyoficial,
+https://youtube.com/@coutycoin.oficial?si=G6Y0_qFZqzyXXCZc
+- Site: https://coutycoin.com.br
+- E-mail: contato@coutycoin.com.br
