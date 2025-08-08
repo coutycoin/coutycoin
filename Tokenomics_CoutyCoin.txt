@@ -1,5 +1,14 @@
+Tokenomics CoutyCoin (CTY)
 
-Nome do Token: CoutyCoin
-Símbolo: CTY
-Oferta Total: 221.000.000 CTY
-... (conteúdo completo do tokenomics fornecido)
+- Nome: CoutyCoin
+- Símbolo: CTY
+- Oferta Total: 221.000.000 CTY (antes queima), 208.375.001 CTY (após queima de 10M em 17/07/2025)
+- Distribuição:
+  - 6,30% Airdrop (14.000.000 CTY)
+  - 4,52% Queima (10.000.000 CTY, concluída em 17/07/2025)
+  - 40,00% Vendas Públicas (88.400.000 CTY)
+  - 20,00% Liquidez (44.200.000 CTY, para PancakeSwap em 02/11/2025)
+  - 10,00% Equipe (22.100.000 CTY, com vesting de 2 anos)
+  - 15,97% Reserva Estratégica (35.300.000 CTY)
+- Contrato: https://bscscan.com/address/0xdD516b23e81F86f032Ce8e577D41890f18Fb7deE
+- Rede: BNB Smart Chain (BEP-20)
