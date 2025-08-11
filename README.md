@@ -25,7 +25,6 @@ CoutyCoin é uma criptomoeda brasileira na BNB Chain, nascida em Belém, capital
 
 ## Comunidade
 - **Telegram**: [https://t.me/coutycoinctyoficial](https://t.me/coutycoinctyoficial)
-- **YouTube**: [https://youtube.com/@coutycoin.oficial](https://youtube.com/@coutycoin.oficial?si=G6Y0_qFZqzyXXCZc)
 - **Site**: [https://coutycoin.com.br](https://coutycoin.com.br)
 - **E-mail**: [contato@coutycoin.com.br](mailto:contato@coutycoin.com.br)
 
