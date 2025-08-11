@@ -12,3 +12,4 @@ Tokenomics CoutyCoin (CTY)
   - 15,97% Reserva Estratégica (35.300.000 CTY)
 - Contrato: https://bscscan.com/address/0xdD516b23e81F86f032Ce8e577D41890f18Fb7deE
 - Rede: BNB Smart Chain (BEP-20)
+-Pré-venda: Soft Cap R$13.000, Hard Cap R$120.000, totalizando até 155.237 CTY a ~R$0,0007735/CTY.
