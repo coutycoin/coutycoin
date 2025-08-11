@@ -19,6 +19,7 @@ CoutyCoin é uma criptomoeda brasileira na BNB Chain, nascida em Belém, capital
 ## Roadmap
 - **Pré-venda**: ~R$0,0007735/CTY até 30/09/2025
 - **Lançamento**: PancakeSwap em 02/11/2025
+- Pré-venda: Soft Cap R$13.000, Hard Cap R$120.000, totalizando até 155.237 CTY a ~R$0,0007735/CTY.
 
 ## Segurança
 - **Auditoria**: [Go+ Security](https://gopluslabs.io/token-security/56/0xdD516b23e81F86f032Ce8e577D41890f18Fb7deE) (resultado positivo)
