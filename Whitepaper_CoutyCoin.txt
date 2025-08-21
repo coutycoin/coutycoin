@@ -1,25 +1,26 @@
-Whitepaper CoutyCoin (CTY)
+# Whitepaper CoutyCoin (CTY)
 
-**Visão**
-CoutyCoin é uma criptomoeda brasileira na BNB Chain, nascida em Belém, capital da COP30 em 2025. Nosso foco é inclusão financeira e sustentabilidade, conectando a região ao mercado global de cripto.
+## Introdução
+A CoutyCoin (CTY) é a primeira criptomoeda desenvolvida em Belém do Pará, inspirada em sustentabilidade local, com contexto geográfico relacionado à COP30 2025 (sem parceria oficial). Operando na BNB Smart Chain, visa inclusão financeira e escassez.
 
-**Tokenomics**
-- Oferta Total: 221.000.000 CTY (antes queima), 208.375.001 CTY (após queima de 10M em 17/07/2025).
-- Distribuição: 6,30% Airdrop (14M CTY), 4,52% Queima (10M CTY), 40% Vendas Públicas (88,4M CTY), 20% Liquidez (44,2M CTY), 10% Equipe (22,1M CTY com vesting), 15,97% Reserva (35,3M CTY).
-- Contrato: https://bscscan.com/address/0xdD516b23e81F86f032Ce8e577D41890f18Fb7deE
+## Objetivos
+- Promover acesso financeiro em comunidades locais.
+- Criar um ativo escasso e sustentável.
 
-**Roadmap**
-- Pré-venda: ~R$0,0007735/CTY até 30/09/2025.
--Pré-venda: Soft Cap R$13.000, Hard Cap R$120.000, totalizando até 155.237 CTY a ~R$0,0007735/CTY.
-- Lançamento: PancakeSwap em 02/11/2025.
+## Tokenomics
+- Supply Total: 208.375.001 CTY (pós-queima).
+- Distribuição: Veja "Tokenomics_coutycoin.txt".
+- Lançamento: 02/11/2025 na PancakeSwap.
 
-**Segurança**
-- Auditoria: https://gopluslabs.io/token-security/56/0xdD516b23e81F86f032Ce8e577D41890f18Fb7deE (Go+ Security, resultado positivo).
+## Tecnologia
+- Contrato: 0xdD516b23e81F86f032Ce8e577D41890f18Fb7deE (auditado).
+- Segurança: Auditoria Go+ Security.
 
-**Comunidade**
-- Telegram: https://t.me/coutycoinctyoficial
+## Contatos
 - Site: https://coutycoin.com.br
+- Reddit: https://www.reddit.com/user/emcsCTY/
 - E-mail: contato@coutycoin.com.br
+- Telegram: @coutycoinctyoficial
+- WhatsApp: +55 91 98461-5709
 
-**Equipe**
-- Fundador: Emerson Michel C e Silva, usando IA pra inovação e desenvolvimento.
+Atualizado em 21/08/2025.
