@@ -1,15 +1,25 @@
-Tokenomics CoutyCoin (CTY)
+# Tokenomics da CoutyCoin (CTY)
 
-- Nome: CoutyCoin
-- Símbolo: CTY
-- Oferta Total: 221.000.000 CTY (antes queima), 208.375.001 CTY (após queima de 10M em 17/07/2025)
-- Distribuição:
-  - 6,30% Airdrop (14.000.000 CTY)
-  - 4,52% Queima (10.000.000 CTY, concluída em 17/07/2025)
-  - 40,00% Vendas Públicas (88.400.000 CTY)
-  - 20,00% Liquidez (44.200.000 CTY, para PancakeSwap em 02/11/2025)
-  - 10,00% Equipe (22.100.000 CTY, com vesting de 2 anos)
-  - 15,97% Reserva Estratégica (35.300.000 CTY)
-- Contrato: https://bscscan.com/address/0xdD516b23e81F86f032Ce8e577D41890f18Fb7deE
-- Rede: BNB Smart Chain (BEP-20)
--Pré-venda: Soft Cap R$13.000, Hard Cap R$120.000, totalizando até 155.237 CTY a ~R$0,0007735/CTY.
+## Visão Geral
+A CoutyCoin (CTY) é uma criptomoeda na BNB Smart Chain, desenvolvida em Belém do Pará, inspirada em sustentabilidade local, com contexto geográfico ligado à COP30 2025 (sem afiliação oficial). Foca em inclusão financeira e escassez.
+
+## Detalhes
+- **Supply Total**: 208.375.001 CTY (após queima de 10M em 17/07/2025).
+- **Distribuição**:
+  - Airdrop: 6,30% (14.000.000 CTY).
+  - Queima: 4,52% (10.000.000 CTY).
+  - Parcerias: 3,17% (7.000.000 CTY).
+  - Vendas Públicas: 40,00% (88.400.000 CTY).
+  - Equipe: 10,00% (22.100.000 CTY, vesting 2 anos).
+  - Liquidez: 20,00% (44.200.000 CTY, lançamento 02/11/2025).
+  - Reserva: 15,97% (35.300.000 CTY).
+- **Contrato**: 0xdD516b23e81F86f032Ce8e577D41890f18Fb7deE (auditado).
+
+## Contatos
+- Site: https://coutycoin.com.br
+- Reddit: https://www.reddit.com/user/emcsCTY/
+- E-mail: contato@coutycoin.com.br
+- Telegram: @coutycoinctyoficial
+- WhatsApp: +55 91 98461-5709
+
+Atualizado em 21/08/2025.
