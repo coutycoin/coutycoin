@@ -1,25 +1,52 @@
 # Tokenomics da CoutyCoin (CTY)
 
 ## Visão Geral
-A CoutyCoin (CTY) é uma criptomoeda na BNB Smart Chain, desenvolvida em Belém do Pará, inspirada em sustentabilidade local, com contexto geográfico ligado à COP30 2025 (sem afiliação oficial). Foca em inclusão financeira e escassez.
+A CoutyCoin (CTY) é uma criptomoeda BEP-20 na BNB Smart Chain, focada em inclusão financeira e sustentabilidade. Seu design tokenômico visa promover a escassez, liquidez e o engajamento da comunidade.
 
-## Detalhes
-- **Supply Total**: 208.375.001 CTY (após queima de 10M em 17/07/2025).
-- **Distribuição**:
-  - Airdrop: 6,30% (14.000.000 CTY).
-  - Queima: 4,52% (10.000.000 CTY).
-  - Parcerias: 3,17% (7.000.000 CTY).
-  - Vendas Públicas: 40,00% (88.400.000 CTY).
-  - Equipe: 10,00% (22.100.000 CTY, vesting 2 anos).
-  - Liquidez: 20,00% (44.200.000 CTY, lançamento 02/11/2025).
-  - Reserva: 15,97% (35.300.000 CTY).
-- **Contrato**: 0xdD516b23e81F86f032Ce8e577D41890f18Fb7deE (auditado).
+## Informações do Token
+- Nome: CoutyCoin
+- Símbolo: CTY
+- Rede: BNB Smart Chain (BEP-20)
+- Contrato: 0xdD516b23e81F86f032Ce8e577D41890f18Fb7deE
+- Supply Total (após queima): 208.375.001 CTY
+- Preço de Mercado Atual: R$0,0007 por CTY (PancakeSwap)
 
-## Contatos
-- Site: https://coutycoin.com.br
-- Reddit: https://www.reddit.com/user/emcsCTY/
-- E-mail: contato@coutycoin.com.br
-- Telegram: @coutycoinctyoficial
-- WhatsApp: +55 91 98461-5709
+## Distribuição do Supply
 
-Atualizado em 21/08/2025.
+1.  **Distribuição Gratuita (Airdrop)**: 6,30% (14.000.000 CTY)
+    - Destinado a recompensar a comunidade inicial e promover a adoção.
+    - 2.611.500 CTY já alocados.
+
+2.  **Queima (Burn)**: 4,52% (10.000.000 CTY)
+    - Concluída em 17/07/2025.
+    - Transação BscScan: https://bscscan.com/tx/0x77b971788ea90456b531e4989a16f44a605a5dc50f8607d7dc5c6d7b00fd7b4a
+    - Objetivo: Reduzir o supply circulante para aumentar a escassez e o potencial de valorização.
+
+3.  **Parcerias/Influencers**: 3,17% (7.000.000 CTY)
+    - Alocação para futuras parcerias estratégicas e campanhas de marketing com influenciadores.
+
+4.  **Vendas Públicas**: 40,00% (88.400.000 CTY)
+    - Disponível para compra na PancakeSwap e através de pacotes de venda direta.
+
+5.  **Equipe**: 10,00% (22.100.000 CTY)
+    - Sujeito a um cronograma de vesting de 2 anos, com 25% liberado a cada 6 meses.
+    - Garante o compromisso da equipe com o desenvolvimento de longo prazo do projeto.
+
+6.  **Liquidez (PancakeSwap)**: 20,00% (44.200.000 CTY)
+    - Ativa desde 28/09/2025.
+    - Fornece a liquidez necessária para negociações eficientes na PancakeSwap.
+
+7.  **Reserva Estratégica**: 15,97% (35.300.000 CTY)
+    - Destinada a financiar o desenvolvimento futuro, listagens em outras exchanges, auditorias adicionais e contingências do projeto.
+
+## Mecanismos de Estabilidade e Crescimento
+- **Escassez**: O supply limitado e a queima contribuem para a valorização do token.
+- **Liquidez**: A provisão de liquidez na PancakeSwap facilita a compra e venda, tornando o token acessível.
+- **Vesting**: O vesting da equipe alinha os interesses dos fundadores com o sucesso a longo prazo do token.
+- **Utilidade**: O foco em projetos de impacto social e ambiental em Belém do Pará busca criar utilidade e valor real para o token.
+
+## Cronograma de Expansão
+- Expansão oficial do projeto prevista para 02/11/2025 (Q4 2025).
+
+## Aviso Legal
+Investimentos em criptomoedas são de alto risco e podem resultar na perda total do capital. Faça sua própria pesquisa (DYOR) e consulte um profissional financeiro antes de tomar qualquer decisão de investimento.
