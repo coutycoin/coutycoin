@@ -1,26 +1,81 @@
-# Whitepaper CoutyCoin (CTY)
+# Whitepaper da CoutyCoin (CTY)
 
-## Introdução
-A CoutyCoin (CTY) é a primeira criptomoeda desenvolvida em Belém do Pará, inspirada em sustentabilidade local, com contexto geográfico relacionado à COP30 2025 (sem parceria oficial). Operando na BNB Smart Chain, visa inclusão financeira e escassez.
+## 1. Resumo Executivo
+A CoutyCoin (CTY) é uma criptomoeda inovadora baseada na BNB Smart Chain (BEP-20), concebida em Belém do Pará, Brasil. Nosso projeto visa promover a inclusão financeira e a sustentabilidade, inspirando-se no contexto geográfico da COP30 2025 (sem, no entanto, ter qualquer parceria oficial com o evento). A CTY busca construir um ecossistema financeiro descentralizado que apoie iniciativas sociais e ambientais locais, ao mesmo tempo em que oferece uma oportunidade de investimento em um ativo digital com supply limitado e liquidez ativa.
 
-## Objetivos
-- Promover acesso financeiro em comunidades locais.
-- Criar um ativo escasso e sustentável.
+## 2. Introdução
+A crescente digitalização da economia global e a necessidade de soluções financeiras mais inclusivas e sustentáveis impulsionaram a criação da CoutyCoin. Acreditamos que a tecnologia blockchain pode ser uma ferramenta poderosa para gerar impacto positivo, especialmente em regiões com grande potencial de desenvolvimento e desafios sociais e ambientais, como a Amazônia. A CoutyCoin surge como uma resposta a essa demanda, oferecendo uma criptomoeda com propósito e valor intrínseco.
 
-## Tokenomics
-- Supply Total: 208.375.001 CTY (pós-queima).
-- Distribuição: Veja "Tokenomics_coutycoin.txt".
-- Lançamento: 02/11/2025 na PancakeSwap.
+## 3. Visão e Missão
 
-## Tecnologia
-- Contrato: 0xdD516b23e81F86f032Ce8e577D41890f18Fb7deE (auditado).
-- Segurança: Auditoria Go+ Security.
+### Visão
+Ser a principal criptomoeda de impacto social e ambiental na região amazônica, promovendo a inclusão financeira e o desenvolvimento sustentável através da tecnologia blockchain.
 
-## Contatos
-- Site: https://coutycoin.com.br
-- Reddit: https://www.reddit.com/user/emcsCTY/
-- E-mail: contato@coutycoin.com.br
-- Telegram: @coutycoinctyoficial
-- WhatsApp: +55 91 98461-5709
+### Missão
+Desenvolver e manter uma plataforma robusta e transparente na BNB Smart Chain, que facilite transações financeiras, apoie projetos de sustentabilidade e crie valor para nossa comunidade de detentores de CTY.
 
-Atualizado em 21/08/2025.
+## 4. Tecnologia
+A CoutyCoin é um token BEP-20, construído na BNB Smart Chain. Esta escolha tecnológica oferece:
+- **Baixas Taxas de Transação**: A BNB Smart Chain é conhecida por suas taxas de gás acessíveis, tornando as transações com CTY econômicas.
+- **Alta Velocidade de Transação**: A rede permite confirmações rápidas, garantindo eficiência nas operações.
+- **Compatibilidade com EVM**: Facilita a integração com carteiras e dApps existentes no ecossistema Ethereum.
+- **Segurança**: A robustez da blockchain da Binance oferece um ambiente seguro para as transações de CTY.
+
+## 5. Tokenomics (Economia do Token)
+
+### Nome do Token: CoutyCoin
+### Símbolo: CTY
+### Supply Total (após queima): 208.375.001 CTY
+### Contrato: 0xdD516b23e81F86f032Ce8e577D41890f18Fb7deE
+
+### Distribuição do Supply
+
+| Categoria de Distribuição    | Porcentagem | Quantidade (CTY) | Observações                                                                                             |
+| :--------------------------- | :---------- | :--------------- | :------------------------------------------------------------------------------------------------------ |
+| Distribuição Gratuita (Airdrop) | 6,30%       | 14.000.000       | Destinado a engajamento da comunidade e marketing inicial.                                              |
+| Queima (Burn)                | 4,52%       | 10.000.000       | Concluída em 17/07/2025. Reduz o supply total para aumentar a escassez.                                 |
+| Parcerias/Influencers        | 3,17%       | 7.000.000        | Alocação para colaborações estratégicas e promoção do projeto.                                          |
+| Vendas Públicas              | 40,00%      | 88.400.000       | Disponível para compra na PancakeSwap e através de pacotes de venda direta.                             |
+| Equipe                       | 10,00%      | 22.100.000       | Sujeito a vesting de 2 anos (25% liberado a cada 6 meses) para garantir o compromisso a longo prazo. |
+| Liquidez (PancakeSwap)       | 20,00%      | 44.200.000       | Ativa desde 28/09/2025. Garante a estabilidade e a facilidade de negociação do token.                   |
+| Reserva Estratégica          | 15,97%      | 35.300.000       | Para desenvolvimento futuro, listagens em exchanges e contingências.                                    |
+| **TOTAL**                    | **100%**    | **221.000.000**  | *Nota: O supply total inicial era de 221.000.000 CTY antes da queima de 10M CTY.*                       |
+
+### Mecanismos de Valorização
+- **Escassez**: O supply limitado e a queima estratégica de tokens visam criar um ativo deflacionário.
+- **Liquidez**: A provisão de liquidez na PancakeSwap assegura um mercado saudável e acessível.
+- **Vesting da Equipe**: Alinha os interesses da equipe com o sucesso de longo prazo do projeto.
+- **Utilidade e Impacto Social**: A integração com projetos de sustentabilidade e inclusão financeira pode gerar demanda orgânica pelo token.
+
+## 6. Roadmap (Plano de Desenvolvimento)
+
+### Fase 1: Lançamento e Estabelecimento (Concluída)
+- Desenvolvimento do contrato inteligente BEP-20.
+- Auditoria de segurança do contrato (Go+ Security).
+- Lançamento na PancakeSwap (28/09/2025).
+- Início da distribuição via Airdrop e Venda Direta.
+- Construção da comunidade inicial (redes sociais).
+
+### Fase 2: Expansão e Parcerias (02/11/2025 - Q4 2025)
+- Expansão oficial do projeto.
+- Busca por parcerias estratégicas com organizações locais e globais focadas em sustentabilidade e inclusão.
+- Desenvolvimento de ferramentas e plataformas para facilitar o uso da CTY em projetos sociais.
+- Listagem em outras exchanges descentralizadas (DEXs).
+
+### Fase 3: Ecossistema e Governança (2026 em diante)
+- Lançamento de um sistema de governança descentralizada para a comunidade CTY.
+- Implementação de programas de staking e yield farming.
+- Desenvolvimento de um marketplace ou plataforma de doações utilizando CTY.
+- Expansão para outras blockchains (se aplicável).
+- Fortalecimento da presença global e impacto social.
+
+## 7. Equipe
+
+### Emerson Michel C e Silva
+Fundador da CoutyCoin, responsável pela visão estratégica e desenvolvimento do projeto utilizando inteligência artificial. Com vasta experiência em tecnologia e inovação, Emerson lidera a equipe na construção de um futuro financeiro mais justo e sustentável. Perfil profissional: [LinkedIn](https://www.linkedin.com/in/emerson-silva-01117387?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).
+
+## 8. Segurança e Auditoria
+O contrato da CoutyCoin foi auditado pela Go+ Security, garantindo sua robustez e a ausência de vulnerabilidades críticas. O relatório completo está disponível publicamente, destacando a transparência e o compromisso com a segurança dos fundos dos usuários. (Detalhes no relatório de verificação).
+
+## 9. Aviso Legal
+Este whitepaper é apenas para fins informativos e não constitui aconselhamento financeiro, jurídico ou de investimento. O investimento em criptomoedas envolve riscos significativos, incluindo a perda total do capital. Os leitores devem realizar sua própria pesquisa (DYOR) e procurar aconselhamento profissional antes de tomar qualquer decisão de investimento. A CoutyCoin não tem parceria oficial com a COP30 2025.
