@@ -1,0 +1,28 @@
+Verificação da CoutyCoin (CTY)
+Data: 16/10/2025
+Visão Geral: CoutyCoin (CTY) é a primeira criptomoeda de Belém do Pará, Brasil, uma revolução na BNB Smart Chain que une inclusão financeira e sustentabilidade. Inspirada no contexto da COP30 2025 (sem parceria oficial), nosso objetivo é democratizar o acesso a finanças digitais para comunidades desbancarizadas. Com supply escasso de 211M CTY (após queima de 10M), preço atual R$0,0007/CTY e liquidez ativa na PancakeSwap desde 28/09/2025, a CTY valoriza a escassez e impacto social. A equipe é liderada por Emerson Michel, com auditoria Go+ Security positiva (sem honeypot ou cunhagem).
+Contatos:
+Geral/Ajuda: contato@coutycoin.com.br
+Parcerias: emersonmcs@coutycoin.com.br
+Vendas Diretas: vendas@coutycoin.com.br
+Auditoria Go+ Security:
+Resultado Geral: Positivo (sem honeypot, mint ou impostos).
+Link: https://gopluslabs.io/token-security/56/0xdD516b23e81F86f032Ce8e577D41890f18Fb7deE
+Liquidez:
+Ativa na PancakeSwap V3 desde 28/09/2025.
+Disponível: 1.138.859 CTY + 0,006448 BNB.
+Preço: ~R$0,0007/CTY.
+Pool: https://pancakeswap.finance/swap?outputCurrency=0xdD516b23e81F86f032Ce8e577D41890f18Fb7deE
+Contrato Verificado:
+Endereço: 0xdD516b23e81F86f032Ce8e577D41890f18Fb7deE
+BscScan: https://bscscan.com/address/0xdD516b23e81F86f032Ce8e577D41890f18Fb7deE
+Supply: 211.000.000 CTY (após burn de 10M).
+Vendas Diretas:
+Azul: R$5,00 (29.166 CTY a R$0,000171/CTY)
+Verde: R$10,00 (58.332 CTY a R$0,000171/CTY)
+Vermelho: R$15,00 (87.498 CTY a R$0,000171/CTY)
+Dourado: R$20,00 (116.664 CTY a R$0,000171/CTY)
+Airdrop: 500 CTY grátis por rede seguida. Envie prints + wallet para contato@coutycoin.com.br (24h).
+Equipe: Emerson Michel (fundador & CEO). Rua do Utinga, Bairro Souza, Belém/PA.
+Expansão: Oficial em 02/11/2025 (Q4 2025).
+Contato: Rua do Utinga, Bairro Souza, Belém/PA. Emails: contato@coutycoin.com.br, emersonmcs@coutycoin.com.br, vendas@coutycoin.com.br.
