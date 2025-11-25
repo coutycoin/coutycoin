@@ -14,6 +14,12 @@ A CoutyCoin (CTY) é a primeira criptomoeda de Belém do Pará, Brasil, constru�
 *   **Soft Cap / Hard Cap:** R$150.000,00 / R$500.000,00 (Metas de arrecadação para liquidez).
 *   **Liquidez: Ativa na PancakeSwap V3 desde 28/09/2025 (19.779 milhões 9,37%)
 
+*   ### Documentos Oficiais
+
+- [Tokenomics do CoutyCoin (PDF)](https://docs.google.com/document/d/1uj_SuqeTFjOdE1ACVoMG3yb-e4m--A7LV1a2pu61XU0/edit?usp=drive_link)
+- [Whitepaper.Coutycoin.pdf (PDF)]( https://docs.google.com/document/d/1YAy4ncDKrK4ED4Sc4a6Z7KQxcBKIA7jz-S0OITjT8fw/edit?usp=drive_link )
+- [verificação (PDF)](https://docs.google.com/document/d/13HjgQifP7ubROoJvVXpKxIOk-0CdudhjoIfDIJ1kzfM/edit?usp=drive_link)
+
 ### **Segurança e Auditoria**
 
 O contrato da CTY passou por uma auditoria positiva da **Go+ Security**, confirmando a ausência de honeypot ou funções de cunhagem (mint).
