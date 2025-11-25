@@ -37,14 +37,14 @@ Sem taxas extras de buy/sell. Função burn onlyOwner para deflação.
 - **IAs de Suporte**: ChatGPT (simulações), Manus AI (modelagem), Grok (estratégia e narrativas).
 
 - ## Documentos Oficiais
-- [Tokenomics (PDF)](https://github.com/coutycoin/coutycoin/raw/main/docs/Tokenomics-CoutyCoin.pdf)
-- [Whitepaper (PDF)](https://github.com/coutycoin/coutycoin/raw/main/docs/Whitepaper-CoutyCoin.pdf)
-- [Verificação e Segurança (PDF)](https://github.com/coutycoin/coutycoin/raw/main/docs/Seguranca-CoutyCoin.pdf)
+- [Tokenomics (PDF)](https://drive.google.com/file/d/1-x5lSW4nkus6qVLqWnsXvpwENZpGo1xL/view?usp=drive_link)
+- [Whitepaper (PDF)](https://drive.google.com/file/d/1iuVSLtonid-fE88IdK1NWc0-6v3StpFe/view?usp=drive_link)
+- [Verificação e Segurança (PDF)](https://drive.google.com/file/d/1jiQAhxBdN6QP64Od_2RmaFZt8QGPdoru/view?usp=drive_link)
 
 ## Contatos
 - **Geral/Ajuda**: [contato@coutycoin.com.br](mailto:contato@coutycoin.com.br)
 - **Vendas/Parcerias**: [vendas@coutycoin.com.br](mailto:vendas@coutycoin.com.br)
-- **Redes**: [X (Twitter)](https://x.com/CoutyCoin) | [Telegram](https://t.me/CoutyCoinOfficial)
+- **Redes**: [X (Twitter)](https://x.com/CoutyCoin) | [Telegram](https://t.me/CoutyCoinOfficial)|[Instagram](https://www.instagram.com/coutycoin.oficial/) | [Facebook](https://web.facebook.com/people/CoutyCoinOficial/61578309513680/?_rdc=1&_rdr)
 
 ## Links Úteis
 - **Site**: [coutycoin.com.br](https://coutycoin.com.br)
