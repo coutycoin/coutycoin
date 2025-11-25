@@ -16,9 +16,9 @@ A CoutyCoin (CTY) é a primeira criptomoeda de Belém do Pará, Brasil, constru�
 
 *   ### Documentos Oficiais
 
-- [Tokenomics do CoutyCoin (PDF)](https://docs.google.com/document/d/1uj_SuqeTFjOdE1ACVoMG3yb-e4m--A7LV1a2pu61XU0/edit?usp=drive_link)
-- [Whitepaper.Coutycoin.pdf (PDF)]( https://docs.google.com/document/d/1YAy4ncDKrK4ED4Sc4a6Z7KQxcBKIA7jz-S0OITjT8fw/edit?usp=drive_link )
-- [verificação (PDF)](https://docs.google.com/document/d/13HjgQifP7ubROoJvVXpKxIOk-0CdudhjoIfDIJ1kzfM/edit?usp=drive_link)
+- [Tokenomics.CoutyCoin (PDF)](https://drive.google.com/file/d/19yE2ipF2uDkaCABgEb6qxGcvjzZPNkJI/view?usp=drive_link)
+- [Whitepaper.Coutycoin.pdf (PDF)]( https://drive.google.com/file/d/1CaI1iw2qUkMhto3Fc9ecSmIaW5KqHza1/view?usp=drive_link )
+- [verificação (PDF)](https://drive.google.com/file/d/1fXDirpFtbo0AsBhy8U2d3y6itlkWIvQQ/view?usp=drive_link)
 
 ### **Segurança e Auditoria**
 
