@@ -1,45 +1,57 @@
-# CoutyCoin (CTY)
+# CoutyCoin (CTY) – Token Comunitário na BNB Smart Chain
 
-## A Criptomoeda Brasileira de Belém do Pará
+**Criado em Belém do Pará, Brasil, por Emerson Silva e Paula Silva.**  
+Inspirado no Bitcoin, o CTY é um token BEP-20 para pagamentos P2P, armazenamento de valor e DeFi acessível. Fair launch 100% descentralizado – sem pré-vendas ou alocações privilegiadas.
 
-A CoutyCoin (CTY) é a primeira criptomoeda de Belém do Pará, Brasil, construída na BNB Smart Chain (BEP-20). Nosso projeto une inclusão financeira e sustentabilidade, visando democratizar o acesso a finanças digitais para comunidades desbancarizadas.
+## Informações Chave
+- **Símbolo**: CTY
+- **Rede**: BNB Smart Chain (BEP-20)
+- **Endereço do Contrato**: [0xdD516b23e81F86f032Ce8e577D41890f18Fb7deE](https://bscscan.com/address/0xdd516b23e81f86f032ce8e577d41890f18fb7dee) (Verificado no BSCScan)
+- **Suprimento Total**: 221.000.000 CTY (pós-queima inicial de 10M em julho/2025)
+- **Suprimento Circulante**: ~211.000.000 CTY (sem mint futuro)
+- **Lançamento**: Fair launch exclusivo na PancakeSwap em 28/09/2025
+- **Preço Inicial**: ~R$0.0007 (definido pelo mercado)
+- **Liquidez**: Pool V3 na PancakeSwap com ~50% do supply alocado para estabilidade (atualize via DexScreener)
 
-### **Informações Chave**
+## Tokenomics
+Distribuição justa e deflacionária, focada em comunidade e crescimento orgânico.
 
-*   **Símbolo:** CTY
-*   **Rede:** BNB Smart Chain (BEP-20)
-*   **Endereço do Contrato:** 0xdD516b23e81F86f032Ce8e577D41890f18Fb7deE
-*   **Supply Total:** 211.000.000 CTY (pós-queima)
-*   **Lançamento:** Exclusivamente em DEX (PancakeSwap) em 28/09/2025.
-*   **Soft Cap / Hard Cap:** R$150.000,00 / R$500.000,00 (Metas de arrecadação para liquidez).
-*   **Liquidez: Ativa na PancakeSwap V3 desde 28/09/2025 (19.779 milhões 9,37%)
+| Categoria              | %    | Quantidade (CTY) | Descrição |
+|------------------------|------|------------------|-----------|
+| Liquidez PancakeSwap  | 50% | 105.500.000     | Pool inicial para trades suaves e farming. |
+| Marketing & Comunidade| 20% | 42.200.000      | Campanhas e airdrops (gerido por Paula). |
+| Equipe & Desenvolvimento | 15% | 31.650.000    | Vesting linear de 12 meses. |
+| Recompensas DeFi      | 10% | 21.100.000      | Staking e yield farming. |
+| Queima & Reserva      | 5%  | 10.550.000      | Burns em milestones para escassez. |
 
-*   ### Documentos Oficiais
+Sem taxas extras de buy/sell. Função burn onlyOwner para deflação.
 
-- [Tokenomics.CoutyCoin (PDF)](https://drive.google.com/file/d/19yE2ipF2uDkaCABgEb6qxGcvjzZPNkJI/view?usp=drive_link)
-- [Whitepaper.Coutycoin.pdf (PDF)]( https://drive.google.com/file/d/1CaI1iw2qUkMhto3Fc9ecSmIaW5KqHza1/view?usp=drive_link )
-- [verificação (PDF)](https://drive.google.com/file/d/1fXDirpFtbo0AsBhy8U2d3y6itlkWIvQQ/view?usp=drive_link)
+## Segurança e Auditoria
+- Contrato auditado: Sem honeypot, sem mint ilimitado, ownership para burns controlados.
+- **Go+ Security**: [Análise Completa](https://gopluslabs.io/token-security/56/0xdd516b23e81f86f032ce8e577d41890f18fb7dee) – Baixo risco, seguro para trading.
+- Verificado no BSCScan: [Link](https://bscscan.com/address/0xdd516b23e81f86f032ce8e577d41890f18fb7dee).
 
-### **Segurança e Auditoria**
+## Equipe
+- **Emerson Michel C. Silva**: Fundador & Dev (Visão estratégica e contratos Solidity).
+- **Paula Cristiane Silva**: Marketing e Redes Sociais (Engajamento comunitário).
+- **IAs de Suporte**: ChatGPT (simulações), Manus AI (modelagem), Grok (estratégia e narrativas).
 
-O contrato da CTY passou por uma auditoria positiva da **Go+ Security**, confirmando a ausência de honeypot ou funções de cunhagem (mint).
+- ## Documentos Oficiais
+- [Tokenomics (PDF)](https://github.com/coutycoin/coutycoin/raw/main/docs/Tokenomics-CoutyCoin.pdf)
+- [Whitepaper (PDF)](https://github.com/coutycoin/coutycoin/raw/main/docs/Whitepaper-CoutyCoin.pdf)
+- [Verificação e Segurança (PDF)](https://github.com/coutycoin/coutycoin/raw/main/docs/Seguranca-CoutyCoin.pdf)
 
-### **Equipe**
+## Contatos
+- **Geral/Ajuda**: [contato@coutycoin.com.br](mailto:contato@coutycoin.com.br)
+- **Vendas/Parcerias**: [vendas@coutycoin.com.br](mailto:vendas@coutycoin.com.br)
+- **Redes**: [X (Twitter)](https://x.com/CoutyCoin) | [Telegram](https://t.me/CoutyCoinOfficial)
 
-*   **Emerson Michel C. e Silva:** Fundador (Visão Estratégica)
-*   **Paula Cristiane:** Marketing e Redes Sociais
-*   **IAs de Suporte:** ChatGPT, Manus AI, Grok
+## Links Úteis
+- **Site**: [coutycoin.com.br](https://coutycoin.com.br)
+- **BSCScan**: [Explorar Contrato](https://bscscan.com/address/0xdd516b23e81f86f032ce8e577d41890f18fb7dee)
+- **PancakeSwap**: [Trade CTY](https://pancakeswap.finance/swap?outputCurrency=0xdd516b23e81f86f032ce8e577d41890f18fb7dee)
+- **GitHub**: [Repositório Completo](https://github.com/coutycoin/coutycoin)
 
-###**Contatos**
-Geral/ajuda: contato@coutycoin.com.br
-Vendas: vendas@coutycoin.com.br 
+**Aviso Legal**: CTY é experimental. DYOR – invista apenas o que pode perder. Sem promessas de lucro.
 
-
-### **Links Úteis**
-
-*   **Website:** [ https://coutycoin.com.br ]
-
-*   **BscScan:** [ https://bscscan.com/address/0xdD516b23e81F86f032Ce8e577D41890f18Fb7deE](https://bscscan.com/address/0xdD516b23e81F86f032Ce8e577D41890f18Fb7deE )
-*   **PancakeSwap:** [ https://pancakeswap.finance/swap?outputCurrency=0xdD516b23e81F86f032Ce8e577D41890f18Fb7deE ]
-*   **Go+ Security:** [ https://gopluslabs.io/token-security/56/0xdD516b23e81F86f032Ce8e577D41890f18Fb7deE ]
-
+Junte-se à comunidade e ajude a construir o futuro do CTY! 🚀 #CoutyCoin 
