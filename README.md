@@ -8,7 +8,7 @@ Endereço do Contrato: 0xdD516b23e81F86f032Ce8e577D41890f18Fb7deE (Verificado no
 Suprimento Total: 221.000.000 CTY (pós-queima inicial de 10M em julho/2025)
 Suprimento Circulante: ~211.000.000 CTY (sem mint futuro)
 Lançamento: Fair launch exclusivo na PancakeSwap em 28/09/2025
-Preço Inicial: ~R$0.0007 (definido pelo mercado)
+Preço Inicial: R$0.0007 (definido pelo mercado)
 Liquidez: Pool V3 na PancakeSwap com ~50% do supply alocado para estabilidade (atualize via DexScreener)
 Tokenomics
 Distribuição justa e deflacionária, focada em comunidade e crescimento orgânico.
@@ -40,23 +40,24 @@ Sem taxas extras de buy/sell. Função burn onlyOwner para deflação.
 Segurança e Auditoria
 Contrato auditado: Sem honeypot, sem mint ilimitado, ownership para burns controlados.
 Go+ Security: Análise Completa – Baixo risco, seguro para trading.
-Verificado no BSCScan: Link.
+Verificado no BSCScan: Link https://bscscan.com/address/0xdd516b23e81f86f032ce8e577d41890f18fb7dee
 Equipe
 Emerson Michel C. Silva: Fundador & Dev (Visão estratégica e contratos Solidity).
 Paula Cristiane Silva: Marketing e Redes Sociais (Engajamento comunitário).
 IAs de Suporte: ChatGPT (simulações), Manus AI (modelagem), Grok (estratégia e narrativas).
 Documentos Oficiais
-Tokenomics (PDF)
-Whitepaper (PDF)
-Verificação e Segurança (PDF)
+Tokenomics (PDF) https://drive.google.com/file/d/1bZ82jhmMh-EeTIiW1716HKO78mGrwlYW/view?usp=drive_link
+Whitepaper (PDF) https://drive.google.com/file/d/1icul_YULy4as9q-_Tas3fD6KGu7IZGy1/view?usp=drive_link
+Verificação e Segurança (PDF) https://drive.google.com/file/d/1kx68yx9Esvq7YzD_QTbhGGsAgqJl2uRk/view?usp=drive_link
 Contatos
 Geral/Ajuda: contato@coutycoin.com.br
 Vendas/Parcerias: vendas@coutycoin.com.br
-Redes: X (Twitter) | Telegram
+Redes: X (Twitter) https://x.com/CoutyCoin | Telegram https://t.me/CoutyCoinOfficial
 Links Úteis
 Site: coutycoin.com.br
-BSCScan: Explorar Contrato
-PancakeSwap: Trade CTY
-GitHub: Repositório Completo
+BSCScan: Explorar Contrato https://bscscan.com/address/0xdd516b23e81f86f032ce8e577d41890f18fb7dee
+PancakeSwap: Trade CTY https://pancakeswap.finance/swap?outputCurrency=0xdd516b23e81f86f032ce8e577d41890f18fb7dee
+GitHub: Repositório Completo https://github.com/coutycoin
 Aviso Legal: CTY é experimental. DYOR – invista apenas o que pode perder. Sem promessas de lucro.
-Junte-se à comunidade e ajude a construir o futuro do CTY! 🚀 #CoutyCoin 
+Junte-se à comunidade e ajude a construir o futuro do CTY! 🚀 #CoutyCoin
+
