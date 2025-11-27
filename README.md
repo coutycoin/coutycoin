@@ -12,18 +12,38 @@ Preço Inicial: R$0.0007 (definido pelo mercado)
 Liquidez: Pool V3 na PancakeSwap com ~50% do supply alocado para estabilidade (atualize via DexScreener)
 Tokenomics
 Distribuição justa e deflacionária, focada em comunidade e crescimento orgânico.
-Categoria	%	Quantidade (CTY)	Descrição
-Liquidez PancakeSwap	50%	105.500.000	Pool inicial para trades suaves e farming.
-Marketing & Comunidade	20%	42.200.000	Campanhas e airdrops (gerido por Paula).
-Equipe & Desenvolvimento	15%	31.650.000	Vesting linear de 12 meses
-Recompensas DeFi	10%	21.100.000	Staking e yield farming
-Queima & Reserva	5%	10.550.000	Burns em milestones para escassez.
+Categoria
+%
+Quantidade (CTY)
+Descrição
+Liquidez PancakeSwap
+50%
+105.500.000
+Pool inicial para trades suaves e farming.
+Marketing & Comunidade
+20%
+42.200.000
+Campanhas e airdrops (gerido por Paula).
+Equipe & Desenvolvimento
+15%
+31.650.000
+Vesting linear de 12 meses
+Recompensas DeFi
+10%
+21.100.000
+Staking e yield farming
+Queima & Reserva
+5%
+10.550.000
+Burns em milestones para escassez.
+
 
 Sem taxas extras de buy/sell. Função burn onlyOwner para deflação.
 Segurança e Auditoria
 Contrato auditado: Sem honeypot, sem mint ilimitado, ownership para burns controlados.
-Go+ Security: Análise Completa – Baixo risco, seguro para trading.
-Verificado no BscScan: Link.
+Go+ Security: Análise Completa – Baixo risco, seguro para trading. 
+https://gopluslabs.io/token-security/56/0xdd516b23e81f86f032ce8e577d41890f18fb7dee 
+Verificado no BscScan: https://bscscan.com/address/0xdd516b23e81f86f032ce8e577d41890f18fb7dee 
 Equipe
 Emerson Michel C. Silva: Fundador & Dev (Visão estratégica e contratos Solidity).
 Paula Cristiane Silva: Marketing e Redes Sociais (Engajamento comunitário).
@@ -36,12 +56,12 @@ Contatos
 Geral/Ajuda: contato@coutycoin.com.br
 Vendas/Parcerias: vendas@coutycoin.com.br
 Redes: X ( https://x.com/CoutyCoin ) | Telegram ( https://t.me/CoutyCoinOfficial ) 
+facebook (https://web.facebook.com/people/CoutyCoinOficial/61578309513680/?rdid=8OedRLAUnqBtYfBb&share_url=https%3A%2F%2Fweb.facebook.com%2Fshare%2F15moEoBieH%2F%3F_rdc%3D1%26_rdr )
+Instagram (https://www.instagram.com/coutycoin.oficial/ )
 Links Úteis
 Site: https://coutycoin.com.br
-BscScan: Explorar Contrato (https://bscscan.com/address/0xdd516b23e81f86f032ce8e577d41890f18fb7dee )
-PancakeSwap: Trade CTY (https://pancakeswap.finance/swap?outputCurrency=0xdd516b23e81f86f032ce8e577d41890f18fb7dee )
-GitHub: Repositório Completo (https://github.com/coutycoin )
+BscScan: (https://bscscan.com/address/0xdd516b23e81f86f032ce8e577d41890f18fb7dee)
+PancakeSwap: (https://pancakeswap.finance/swap?outputCurrency=0xdd516b23e81f86f032ce8e577d41890f18fb7dee )
+GitHub: (https://github.com/coutycoin )
 Aviso Legal: CTY é experimental. DYOR – invista apenas o que pode perder. Sem promessas de lucro.
 Junte-se à comunidade e ajude a construir o futuro do CTY! 🚀 #CoutyCoin
-
-
