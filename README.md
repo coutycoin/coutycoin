@@ -12,40 +12,20 @@ Preço Inicial: R$0.0007 (definido pelo mercado)
 Liquidez: Pool V3 na PancakeSwap com ~50% do supply alocado para estabilidade (atualize via DexScreener)
 Tokenomics
 Distribuição justa e deflacionária, focada em comunidade e crescimento orgânico.
-Categoria
-%
-Quantidade (CTY)
-Descrição
-Liquidez PancakeSwap
-50%
-105.500.000
-Pool inicial para trades suaves e farming.
-Marketing & Comunidade
-20%
-42.200.000
-Campanhas e airdrops (gerido por Paula).
-Equipe & Desenvolvimento
-15%
-31.650.000
-Vesting linear de 12 meses
-Recompensas DeFi
-10%
-21.100.000
-Staking e yield farming
-Queima & Reserva
-5%
-10.550.000
-Burns em milestones para escassez.
+Categoria   % Quantidade (CTY) Descrição
+Liquidez PancakeSwap 50% 105.500.000 Pool inicial para trades suaves e farming.
+Marketing & Comunidade 20% 42.200.000 Campanhas e airdrops (gerido por Paula). Equipe & Desenvolvimento 15% 31.650.000 Vesting linear de 12 meses
+Recompensas DeFi 10% 21.100.000 Staking e yield farming
+Queima & Reserva  5% 10.550.000 Burns em milestones para escassez.
 
 
 Sem taxas extras de buy/sell. Função burn onlyOwner para deflação.
 Segurança e Auditoria
 Contrato auditado: Sem honeypot, sem mint ilimitado, ownership para burns controlados.
-Go+ Security: Análise Completa – Baixo risco, seguro para trading. 
-https://gopluslabs.io/token-security/56/0xdd516b23e81f86f032ce8e577d41890f18fb7dee 
-Verificado no BscScan: https://bscscan.com/address/0xdd516b23e81f86f032ce8e577d41890f18fb7dee 
+Go+ Security: Análise Completa – Baixo risco, seguro para trading. https://gopluslabs.io/token-security/56/0xdd516b23e81f86f032ce8e577d41890f18fb7dee 
+Verificado no BscScan: ( https://bscscan.com/address/0xdd516b23e81f86f032ce8e577d41890f18fb7dee)
 Equipe
-Emerson Michel C. Silva: Fundador & Dev (Visão estratégica e contratos Solidity).
+Emerson Michel C. Silva: Fundador & Dev (Visão estratégica e contratos Solidity). 
 Paula Cristiane Silva: Marketing e Redes Sociais (Engajamento comunitário).
 IAs de Suporte: ChatGPT (simulações), Manus AI (modelagem), Grok (estratégia e narrativas).
 Documentos Oficiais
