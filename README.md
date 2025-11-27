@@ -12,52 +12,36 @@ Preço Inicial: R$0.0007 (definido pelo mercado)
 Liquidez: Pool V3 na PancakeSwap com ~50% do supply alocado para estabilidade (atualize via DexScreener)
 Tokenomics
 Distribuição justa e deflacionária, focada em comunidade e crescimento orgânico.
-Categoria
-%
-Quantidade (CTY)
-Descrição
-Liquidez PancakeSwap
-50%
-105.500.000
-Pool inicial para trades suaves e farming.
-Marketing & Comunidade
-20%
-42.200.000
-Campanhas e airdrops (gerido por Paula).
-Equipe & Desenvolvimento
-15%
-31.650.000
-Vesting linear de 12 meses.
-Recompensas DeFi
-10%
-21.100.000
-Staking e yield farming.
-Queima & Reserva
-5%
-10.550.000
-Burns em milestones para escassez.
+Categoria	%	Quantidade (CTY)	Descrição
+Liquidez PancakeSwap	50%	105.500.000	Pool inicial para trades suaves e farming.
+Marketing & Comunidade	20%	42.200.000	Campanhas e airdrops (gerido por Paula).
+Equipe & Desenvolvimento	15%	31.650.000	Vesting linear de 12 meses
+Recompensas DeFi	10%	21.100.000	Staking e yield farming
+Queima & Reserva	5%	10.550.000	Burns em milestones para escassez.
+
 Sem taxas extras de buy/sell. Função burn onlyOwner para deflação.
 Segurança e Auditoria
 Contrato auditado: Sem honeypot, sem mint ilimitado, ownership para burns controlados.
 Go+ Security: Análise Completa – Baixo risco, seguro para trading.
-Verificado no BSCScan: Link https://bscscan.com/address/0xdd516b23e81f86f032ce8e577d41890f18fb7dee
+Verificado no BscScan: Link.
 Equipe
 Emerson Michel C. Silva: Fundador & Dev (Visão estratégica e contratos Solidity).
 Paula Cristiane Silva: Marketing e Redes Sociais (Engajamento comunitário).
 IAs de Suporte: ChatGPT (simulações), Manus AI (modelagem), Grok (estratégia e narrativas).
 Documentos Oficiais
-Tokenomics (PDF) https://drive.google.com/file/d/1bZ82jhmMh-EeTIiW1716HKO78mGrwlYW/view?usp=drive_link
-Whitepaper (PDF) https://drive.google.com/file/d/1icul_YULy4as9q-_Tas3fD6KGu7IZGy1/view?usp=drive_link
-Verificação e Segurança (PDF) https://drive.google.com/file/d/1kx68yx9Esvq7YzD_QTbhGGsAgqJl2uRk/view?usp=drive_link
+Tokenomics (PDF) ( https://drive.google.com/file/d/1bZ82jhmMh-EeTIiW1716HKO78mGrwlYW/view?usp=drive_link )
+Whitepaper (PDF) ( https://drive.google.com/file/d/1icul_YULy4as9q-_Tas3fD6KGu7IZGy1/view?usp=drive_link )
+Verificação e Segurança (PDF) (https://drive.google.com/file/d/1kx68yx9Esvq7YzD_QTbhGGsAgqJl2uRk/view?usp=drive_link )
 Contatos
 Geral/Ajuda: contato@coutycoin.com.br
 Vendas/Parcerias: vendas@coutycoin.com.br
-Redes: X (Twitter) https://x.com/CoutyCoin | Telegram https://t.me/CoutyCoinOfficial
+Redes: X ( https://x.com/CoutyCoin ) | Telegram ( https://t.me/CoutyCoinOfficial ) 
 Links Úteis
-Site: coutycoin.com.br
-BSCScan: Explorar Contrato https://bscscan.com/address/0xdd516b23e81f86f032ce8e577d41890f18fb7dee
-PancakeSwap: Trade CTY https://pancakeswap.finance/swap?outputCurrency=0xdd516b23e81f86f032ce8e577d41890f18fb7dee
-GitHub: Repositório Completo https://github.com/coutycoin
+Site: https://coutycoin.com.br
+BscScan: Explorar Contrato (https://bscscan.com/address/0xdd516b23e81f86f032ce8e577d41890f18fb7dee )
+PancakeSwap: Trade CTY (https://pancakeswap.finance/swap?outputCurrency=0xdd516b23e81f86f032ce8e577d41890f18fb7dee )
+GitHub: Repositório Completo (https://github.com/coutycoin )
 Aviso Legal: CTY é experimental. DYOR – invista apenas o que pode perder. Sem promessas de lucro.
 Junte-se à comunidade e ajude a construir o futuro do CTY! 🚀 #CoutyCoin
+
 
