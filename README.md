@@ -59,4 +59,4 @@ BSCScan: Explorar Contrato
 PancakeSwap: Trade CTY
 GitHub: Repositório Completo
 Aviso Legal: CTY é experimental. DYOR – invista apenas o que pode perder. Sem promessas de lucro.
-Junte-se à comunidade e ajude a construir o futuro do CTY! 🚀 #CoutyCoin
+Junte-se à comunidade e ajude a construir o futuro do CTY! 🚀 #CoutyCoin 
