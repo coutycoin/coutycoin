@@ -36,7 +36,7 @@ Contatos
 Geral/Ajuda: contato@coutycoin.com.br
 Vendas/Parcerias: vendas@coutycoin.com.br
 Redes: X ( https://x.com/CoutyCoin ) | Telegram ( https://t.me/CoutyCoinOfficial ) 
-facebook (https://web.facebook.com/people/CoutyCoinOficial/61578309513680/?rdid=8OedRLAUnqBtYfBb&share_url=https%3A%2F%2Fweb.facebook.com%2Fshare%2F15moEoBieH%2F%3F_rdc%3D1%26_rdr )
+facebook (https://www.facebook.com/share/1Ju2vYnzX4/)
 Instagram (https://www.instagram.com/coutycoin.oficial/ )
 Links Úteis
 Site: https://coutycoin.com.br
